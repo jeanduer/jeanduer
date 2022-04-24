@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanduer
 - 👀 I’m interested in arduino,raspberry pi and stm32 projects
-- 🌱 I’m currently learning home automation - garden/greenhouse automation
+- 🌱 I’m currently trying out  home automation and garden/greenhouse automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
